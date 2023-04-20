@@ -12,7 +12,7 @@ def leer_cartas_jugador(nombre, tablero):
     pass
 
 def  despliega_tablero(opcion, matriz, r1 = None, c1 = None, r2 = None, c2 = None):
-    pass
+    print(matriz)
 
 
 
